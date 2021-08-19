@@ -30,10 +30,16 @@
             "required": false,
             "value": "true"
         },
-        "TAG_REPLY": {
-            "description": "Enter jid of your number so that you get a audio reply when metioned example - 91xxxxxxxxxx@s.whatsapp.net - for india",
-            "required": false          
+        "GIF_WEL": {
+            "description": "Welcome message video നിങ്ങൾക്ക് വേണ്ട welcome gif ന്റെ link കൊടുക്കുക (correct link koduthillankil error varum).",
+            "required": true,
+            "value": "https://i.imgur.com/iRCjokG.mp4"
         },
+        "GIF_BYE": {
+            "description": "Goodbye message video നിങ്ങൾക്ക് വേണ്ട goodbye gif ന്റെ link കൊടുക്കുക (correct link koduthillankil error varum).",
+            "required": true,
+            "value": "https://i.imgur.com/NTar8dQ.mp4"
+        },  
         "ANTİ_LİNK": {
             "description" : "Link Blocking System.",
             "required": true,
