@@ -106,4 +106,4 @@ session.asena
 *.db
 package-lock.json
 .DS_Store
-config.en
+config.env
