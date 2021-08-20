@@ -1,4 +1,5 @@
-/* Copyright (C) 2020 Mikhaiel
+/*
+Copyright (C) 2020 Mikhaiel
 WhatsAsena - Yusuf Usta	
 */
 const fs = require('fs')
