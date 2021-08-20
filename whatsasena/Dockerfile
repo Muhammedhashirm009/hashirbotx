@@ -1,4 +1,4 @@
-FROM fusuf/whatsasena:lates
+FROM fusuf/whatsasena:latest
 
 RUN git clone https://github.com/Mikhaiel/Jinnh /root/WhatsAsenaDuplicated
 WORKDIR /root/WhatsAsenaDuplicated/
