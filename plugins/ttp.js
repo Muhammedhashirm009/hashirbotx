@@ -1,4 +1,4 @@
-/* Codded by Phaticusthiccy
+/* Codded by Phaticusthiccy'
 
 Unlimited API for Photooxy, Textpro and Instagram scraper.
 
