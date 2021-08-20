@@ -155,7 +155,7 @@ else if (CON.WORKTYPE == 'public') {
             await message.sendMessage(
                 Buffer.from(resimnw.data), 
                 MessageType.image, 
-                { caption: nwmsg }
+                { caption: nwms }
             );
         }
     });
