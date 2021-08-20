@@ -1,7 +1,6 @@
 /* Copyright (C) 2020 afnanplk.
 
 Re-Coded BY MIKHAIEL
-
 */
 
 const Asena = require('../events');
