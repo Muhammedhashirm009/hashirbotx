@@ -112,4 +112,3 @@ if (conf.WORKTYPE == 'public') {
 
 
     }));
-}
