@@ -7,7 +7,7 @@ const Config = require('../config');
 const brainly = "Finds the answer."
 const usage = ".brainly <Question>"
 
-const butuh = "```Enter the Question!!```"
+const butuh = "```Enter the Question!```"
 
 Asena.addCommand({ pattern: 'brainly ?(.*)', fromMe: false, desc: brainly, usage: usage }, async (message, match) => {
 
