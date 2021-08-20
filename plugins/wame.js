@@ -2,6 +2,7 @@ const Asena = require('../events');
 const {MessageType} = require('@adiwajshing/baileys');
 const Config = require('../config');
 const fs = require('fs');
+
 const WAME_DESC = "Get a link to the user chat."
 const WAME = "```Chat link from```@{}: https://wa.me/{}"
 const NEED_UWONG = "*Give me a user!*"
